@@ -37,5 +37,5 @@ A simple, interactive Dental Clinic chatbot built with Google Gemini (gemini-1.5
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/BrightSmile-DentalBot.git
+   git clone https://github.com/basharat10/BrightSmile-DentalBot.git
    cd BrightSmile-DentalBot
